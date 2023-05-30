@@ -14,5 +14,6 @@ public class MicroappGatewayApplication {
     public static void main(String[] args){
         SpringApplication.run(MicroappGatewayApplication.class);
         System.out.println("test5");
+         System.out.println("test4");
     }
 }
