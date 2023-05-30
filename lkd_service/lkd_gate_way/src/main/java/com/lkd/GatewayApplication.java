@@ -15,5 +15,6 @@ public class GatewayApplication{
         SpringApplication.run( GatewayApplication.class, args);
         System.out.println("test11");
         System.out.println("test2");
+        System.out.println("test3");
     }
 }
